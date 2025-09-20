@@ -4,11 +4,10 @@
 Comienzo de la certificación de **Diseño Web Responsivo** de FreeCodeCamp.  
 Primeros pasos en HTML: aprendizaje de sintaxis básica y elemental de HTML, con diferentes tipografías, añadido de imágenes, creación de listas, selección, botones simples y enlaces.
 
-![Cat Photo App](./cat-photo.png)
+![Cat Photo App](./img/cat-photo.png)
 
 ## Tecnologías utilizadas
 - HTML5  
-- CSS3  
 - Responsive Design (conceptos básicos)
 
 ## Cómo ver el proyecto
