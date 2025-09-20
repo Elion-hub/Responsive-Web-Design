@@ -4,7 +4,9 @@
 Comienzo de la certificación de **Diseño Web Responsivo** de FreeCodeCamp.  
 Primeros pasos en HTML: aprendizaje de sintaxis básica y elemental de HTML, con diferentes tipografías, añadido de imágenes, creación de listas, selección, botones simples y enlaces.
 
-![Cat Photo App](./img/cat-photo.png)
+## Contacto
+- LinkedIn: [www.linkedin.com/in/josem-garcia-](https://www.linkedin.com/in/josem-garcia-)
+
 
 ## Tecnologías utilizadas
 - HTML5  
@@ -14,5 +16,4 @@ Primeros pasos en HTML: aprendizaje de sintaxis básica y elemental de HTML, con
 - Simplemente abre el archivo `index.html` en tu navegador web favorito para ver la página funcionando.  
 - Explora la estructura HTML y los estilos CSS aplicados.
 
-## Contacto
-- LinkedIn: [www.linkedin.com/in/josem-garcia-](https://www.linkedin.com/in/josem-garcia-)
+![Cat Photo App](./img/cat-photo.png)
