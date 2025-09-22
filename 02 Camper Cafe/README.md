@@ -4,4 +4,4 @@ Continuación de primeros pasos en HTML, además de introducción a CSS.
 
 LinkedIn: www.linkedin.com/in/josem-garcia-
 
-![Carta de la cafetería](Cafe Menu.jpg)
+![Carta de la cafetería](Cafe-Menu.jpg)
