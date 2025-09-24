@@ -69,4 +69,4 @@ Proyecto ideal para practicar gradientes, box-shadow y diseño de elementos inli
 
 Todo el estilo se gestiona desde styles.css.
 
-![CSS Color Markers](https://github.com/Elion-hub/Responsive-Web-Design/blob/main/CSS%20Color%20Markers/ColorMarkers.png)
+![Color Markers](https://raw.githubusercontent.com/Elion-hub/Responsive-Web-Design/main/03%20CSS%20Color%20Markers/ColorMarkers.png)
