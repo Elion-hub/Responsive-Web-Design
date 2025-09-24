@@ -11,4 +11,5 @@ En este ejercicio, construirás la **carta de un café** usando HTML para la est
 
 LinkedIn: www.linkedin.com/in/josem-garcia-
 
+
 ![Carta de la cafetería](Cafe-Menu.jpg)
