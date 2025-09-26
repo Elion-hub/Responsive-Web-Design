@@ -53,4 +53,4 @@ Copiar código
 
 ## 📄 Vista previa
 
-![Registration Form](RegistrationForm.png)
+![Registration Form](https://raw.githubusercontent.com/Elion-hub/Responsive-Web-Design/main/04%20Registration%20Form/RegistrationForm.PNG)
