@@ -53,4 +53,4 @@ Copiar código
 
 ## 📄 Vista previa
 
-![Registration Form](./RegistrationForm.png)
+![Registration Form](RegistrationForm.png)
