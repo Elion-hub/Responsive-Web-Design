@@ -50,5 +50,3 @@ Copiar código
 ---
 
 Este proyecto es una práctica recomendada para aprender a crear formularios web estilizados, accesibles y funcionales, como los requeridos en FreeCodeCamp y otros cursos de desarrollo frontend.
-
-![Formulario de Encuesta](SurveyForm.png)
