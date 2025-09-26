@@ -33,7 +33,7 @@ Este proyecto consiste en un **formulario de encuesta** diseñado con **HTML y C
 
 ## Captura del formulario
 
-![Formulario de Encuesta](SurveyForm.png)
+![Formulario de Encuesta](https://raw.githubusercontent.com/Elion-hub/Responsive-Web-Design/main/05%20Survey%20Form%20(Certification%20Project)/SurveyForm.PNG)
 
 ## Estructura del proyecto
 
