@@ -7,7 +7,7 @@ Este proyecto recrea un **estilo de pintura abstracta al estilo Rothko** utiliza
 
 ## Vista previa
 
-![Rothko Painting](RothkoPaint.png)
+![Rothko Painting](https://raw.githubusercontent.com/Elion-hub/Responsive-Web-Design/main/06%20Rothko%20Paint/RothkoPaint.PNG)
 
 ## Estructura del proyecto
 
