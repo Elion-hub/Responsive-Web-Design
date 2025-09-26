@@ -34,5 +34,5 @@ PhotoGallery/
 
 ## 📷 Vista previa
 
-![Photo Gallery](./PhotoGallery.png)
+![Photo Gallery](https://raw.githubusercontent.com/Elion-hub/Responsive-Web-Design/main/07%20CSS%20Flexbox%20Photo%20Gallery/CSSFlexboxPhotoGallery.PNG)
 
