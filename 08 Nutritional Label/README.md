@@ -75,4 +75,4 @@ Este proyecto demuestra:
 
 ## 👀 Vista previa
 
-![Nutritional Label](https://raw.githubusercontent.com/Elion-hub/Responsive-Web-Design/main/03%20CSS%20Color%20Markers/ColorMarkers.PNG)
+![Nutritional Label](https://raw.githubusercontent.com/Elion-hub/Responsive-Web-Design/main/08%20Nutritional%20Label/NutritionalLabel.PNG)

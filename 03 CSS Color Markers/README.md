@@ -4,6 +4,10 @@ CSS Color Markers es un proyecto de práctica de CSS que crea marcadores de colo
 
 El proyecto está desarrollado únicamente con HTML y CSS.
 
+---
+## Contacto
+- LinkedIn: [www.linkedin.com/in/josem-garcia-](https://www.linkedin.com/in/josem-garcia-)
+
 🖥️ Vista previa
 
 📂 Estructura del proyecto
