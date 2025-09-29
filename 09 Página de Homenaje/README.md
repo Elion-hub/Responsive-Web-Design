@@ -21,4 +21,4 @@ Ideal como práctica de desarrollo web y demostración de **buenas prácticas en
 - **HTML5**: estructura semántica y contenido.
 - **CSS3**: diseño visual, tipografía y responsividad.
 
-![Pagina Tributo](https://raw.githubusercontent.com/Elion-hub/Responsive-Web-Design/main/10%20P%C3%A1gina%20de%20Homenaje/PaginaTributo.PNG)
+![Pagina Tributo](https://raw.githubusercontent.com/Elion-hub/Responsive-Web-Design/main/09%20P%C3%A1gina%20de%20Homenaje/PaginaTributo.PNG)
