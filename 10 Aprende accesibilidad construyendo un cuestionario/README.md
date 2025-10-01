@@ -7,7 +7,7 @@
 Este proyecto es una práctica de HTML y CSS basada en el **Accessibility Quiz** de freeCodeCamp. Su objetivo es reforzar conceptos de accesibilidad web y buenas prácticas en la creación de formularios, navegación y estilos, aplicando técnicas como **etiquetas semánticas, roles ARIA y navegación accesible**.
 
 ## Contacto
-[LinkedIn](www.linkedin.com/in/josem-garcia-)  
+- LinkedIn: [www.linkedin.com/in/josem-garcia-](https://www.linkedin.com/in/josem-garcia-)
 
 
 ## Características principales
